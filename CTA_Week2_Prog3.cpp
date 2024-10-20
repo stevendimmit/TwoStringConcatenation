@@ -11,6 +11,7 @@ int main()
     // need two strings to combine two strings
     string firstInput;
     string secondInput;
+    //string to hold the concatenated string
     string concatenatedString;
     // while loop variable that keeps track of number of iterations of loop
     int i = 0;
