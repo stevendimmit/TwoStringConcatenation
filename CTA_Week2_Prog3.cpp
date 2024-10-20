@@ -29,4 +29,5 @@ int main()
         cout << concatenatedString << endl;
         i++;
     }
+    return 0;
 }
